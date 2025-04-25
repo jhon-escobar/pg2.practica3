@@ -43,10 +43,11 @@ hay mas variedad de mas de ejercicios
 <p>lanzo de bala
 <p>posta
 <p>salto de barras
+
 <br>
 
 ## Proposito del api
 
-el api tratara de dar informacio de que tipo de ejercios hay en el Atletismo.
+<div>el api tratara de dar informacio de que tipo de ejercios hay en el Atletismo.
 <b> tambien dara de como hacer los ejercicios.
 <b> reglas importante de como desempe;ar los ejercicos del los tipos y estilos de ejercicios.
