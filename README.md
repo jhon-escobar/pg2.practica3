@@ -50,4 +50,4 @@ hay mas variedad de mas de ejercicios
 
 el api tratara de dar informacio de que tipo de ejercios hay en el Atletismo.
 <b> tambien dara de como hacer los ejercicios.
-<b> reglas importante de como desempe;ar los ejercicos del los tipos y estilos de ejercicios.
+<b> reglas importante de como desempenar los ejercicos del los tipos y estilos de ejercicios.
